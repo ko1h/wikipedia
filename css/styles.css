@@ -6,3 +6,11 @@
  #strong {
    font-weight: bold;
  }
+
+.panel-success {
+  background-color: #f5fffa;
+}
+
+.panel-info {
+  background-color: #f5faff;
+}
