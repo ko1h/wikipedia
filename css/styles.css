@@ -1,4 +1,8 @@
-.header {
-  float: center;
-  
+#plant {
+  float: right;
+  padding: 5px;
+
 }
+ #strong {
+   font-weight: bold;
+ }
